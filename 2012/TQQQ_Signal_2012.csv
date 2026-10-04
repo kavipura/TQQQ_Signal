@@ -1,0 +1,251 @@
+date,signal_symbol,trade_symbol,regime,vix_regime,signal_close,trade_close,rsi,target_exposure_pct,actual_exposure_pct,trade_action,allocation_change_pct,cumulative_return_pct,reason
+2012-01-03,QQQ,TQQQ,BULL,VIX_CHOP,50.38,0.36,56.64,0.00,0.00,HOLD,0.00,0.00,Panic cooldown active | No change vs current exposure
+2012-01-04,QQQ,TQQQ,BULL,VIX_CHOP,50.59,0.36,57.85,0.00,0.00,HOLD,0.00,0.00,Panic cooldown active | No change vs current exposure
+2012-01-05,QQQ,TQQQ,BULL,VIX_CHOP,51.00,0.37,60.19,0.00,0.00,HOLD,0.00,0.00,Panic cooldown active | No change vs current exposure
+2012-01-06,QQQ,TQQQ,BULL,VIX_CHOP,51.18,0.37,61.21,100.00,0.00,HOLD,0.00,0.00,Panic re-entry lock | Targets suppressed | Diff below min rebalance change
+2012-01-09,QQQ,TQQQ,BULL,VIX_CHOP,51.01,0.37,59.65,100.00,0.00,HOLD,0.00,0.00,Panic re-entry lock | Targets suppressed | Diff below min rebalance change
+2012-01-10,QQQ,TQQQ,BULL,VIX_CHOP,51.39,0.38,61.98,100.00,0.00,HOLD,0.00,0.00,Panic re-entry lock | Targets suppressed | Diff below min rebalance change
+2012-01-11,QQQ,TQQQ,BULL,VIX_CHOP,51.49,0.38,62.59,100.00,0.00,HOLD,0.00,0.00,Panic re-entry lock | Targets suppressed | Diff below min rebalance change
+2012-01-12,QQQ,TQQQ,BULL,VIX_CHOP,51.70,0.39,63.89,100.00,0.00,HOLD,0.00,0.00,Panic re-entry lock | Targets suppressed | Diff below min rebalance change
+2012-01-13,QQQ,TQQQ,BULL,VIX_CHOP,51.51,0.38,61.79,100.00,0.00,HOLD,0.00,0.00,Panic re-entry lock | Targets suppressed | Diff below min rebalance change
+2012-01-17,QQQ,TQQQ,BULL,VIX_CHOP,51.98,0.39,64.87,100.00,0.00,HOLD,0.00,0.00,Panic re-entry lock | Targets suppressed | Diff below min rebalance change
+2012-01-18,QQQ,TQQQ,BULL,VIX_CHOP,52.67,0.41,68.85,100.00,0.00,HOLD,0.00,0.00,Panic re-entry lock | Targets suppressed | Diff below min rebalance change
+2012-01-19,QQQ,TQQQ,BULL,VIX_BULL,53.00,0.42,70.57,50.00,0.00,HOLD,0.00,0.00,Panic re-entry lock | Targets suppressed | Diff below min rebalance change
+2012-01-20,QQQ,TQQQ,BULL,VIX_BULL,52.92,0.41,69.57,100.00,100.00,BUY_TQQQ,100.00,0.00,Trade: BUY TQQQ
+2012-01-23,QQQ,TQQQ,BULL,VIX_BULL,52.93,0.41,69.62,100.00,100.00,HOLD,0.00,0.00,Hold blocked | Diff below min rebalance change
+2012-01-24,QQQ,TQQQ,BULL,VIX_BULL,52.84,0.41,68.36,100.00,100.00,HOLD,0.00,0.00,Diff below min rebalance change
+2012-01-25,QQQ,TQQQ,BULL,VIX_BULL,53.50,0.43,72.33,50.00,50.00,SELL_TQQQ,-50.00,4.88,Trade: SELL TQQQ
+2012-01-26,QQQ,TQQQ,BULL,VIX_BULL,53.32,0.42,69.76,100.00,49.41,HOLD,50.59,3.66,Hold blocked
+2012-01-27,QQQ,TQQQ,BULL,VIX_BULL,53.47,0.43,70.69,50.00,50.00,HOLD,0.00,4.88,Diff below min rebalance change
+2012-01-30,QQQ,TQQQ,BULL,VIX_BULL,53.52,0.43,71.01,50.00,50.00,HOLD,0.00,4.88,Diff below min rebalance change
+2012-01-31,QQQ,TQQQ,BULL,VIX_BULL,53.59,0.43,71.48,50.00,50.00,HOLD,0.00,4.88,Diff below min rebalance change
+2012-02-01,QQQ,TQQQ,BULL,VIX_BULL,54.02,0.44,74.25,50.00,50.57,HOLD,-0.57,6.10,Diff below min rebalance change
+2012-02-02,QQQ,TQQQ,BULL,VIX_BULL,54.19,0.44,75.27,50.00,50.57,HOLD,-0.57,6.10,Diff below min rebalance change
+2012-02-03,QQQ,TQQQ,BULL,VIX_BULL,54.94,0.46,79.20,50.00,50.00,SELL_TQQQ,-1.69,8.54,Trade: SELL TQQQ
+2012-02-06,QQQ,TQQQ,BULL,VIX_BULL,54.89,0.46,78.31,50.00,50.00,HOLD,0.00,8.54,Hold blocked | Diff below min rebalance change
+2012-02-07,QQQ,TQQQ,BULL,VIX_BULL,55.01,0.46,78.92,50.00,50.00,HOLD,0.00,8.54,Diff below min rebalance change
+2012-02-08,QQQ,TQQQ,BULL,VIX_BULL,55.30,0.47,80.36,50.00,50.54,HOLD,-0.54,9.72,Diff below min rebalance change
+2012-02-09,QQQ,TQQQ,BULL,VIX_BULL,55.70,0.48,82.18,50.00,50.00,SELL_TQQQ,-1.06,10.90,Trade: SELL TQQQ
+2012-02-10,QQQ,TQQQ,BULL,VIX_CHOP,55.31,0.47,74.91,50.00,49.47,HOLD,0.53,9.74,Hold blocked | Diff below min rebalance change
+2012-02-13,QQQ,TQQQ,BULL,VIX_BULL,55.82,0.48,77.69,50.00,50.00,HOLD,0.00,10.90,Diff below min rebalance change
+2012-02-14,QQQ,TQQQ,BULL,VIX_BULL,55.96,0.49,78.40,50.00,50.52,HOLD,-0.52,12.05,Diff below min rebalance change
+2012-02-15,QQQ,TQQQ,BULL,VIX_CHOP,55.57,0.48,71.59,50.00,50.00,HOLD,0.00,10.90,Diff below min rebalance change
+2012-02-16,QQQ,TQQQ,BULL,VIX_BULL,56.33,0.50,75.97,50.00,50.00,SELL_TQQQ,-1.02,13.21,Trade: SELL TQQQ
+2012-02-17,QQQ,TQQQ,BULL,VIX_BULL,56.16,0.49,73.25,50.00,49.49,HOLD,0.51,12.07,Hold blocked | Diff below min rebalance change
+2012-02-21,QQQ,TQQQ,BULL,VIX_BULL,56.32,0.50,74.18,50.00,50.00,HOLD,0.00,13.21,Diff below min rebalance change
+2012-02-22,QQQ,TQQQ,BULL,VIX_BULL,56.06,0.49,69.90,100.00,100.00,BUY_TQQQ,50.51,12.07,Trade: BUY TQQQ
+2012-02-23,QQQ,TQQQ,BULL,VIX_BULL,56.43,0.50,72.35,50.00,100.00,HOLD,-50.00,14.36,Hold blocked
+2012-02-24,QQQ,TQQQ,BULL,VIX_BULL,56.63,0.50,73.60,50.00,50.00,SELL_TQQQ,-50.00,14.36,Trade: SELL TQQQ
+2012-02-27,QQQ,TQQQ,BULL,VIX_BULL,56.71,0.51,74.10,50.00,50.50,HOLD,-0.50,15.51,Hold blocked | Diff below min rebalance change
+2012-02-28,QQQ,TQQQ,BULL,VIX_BULL,57.28,0.52,77.41,50.00,50.98,HOLD,-0.98,16.65,Diff below min rebalance change
+2012-02-29,QQQ,TQQQ,BULL,VIX_BULL,57.02,0.52,72.84,50.00,50.98,HOLD,-0.98,16.65,Diff below min rebalance change
+2012-03-01,QQQ,TQQQ,BULL,VIX_BULL,57.48,0.53,75.59,50.00,50.00,SELL_TQQQ,-1.46,17.79,Trade: SELL TQQQ
+2012-03-02,QQQ,TQQQ,BULL,VIX_BULL,57.43,0.53,74.70,50.00,50.00,HOLD,0.00,17.79,Hold blocked | Diff below min rebalance change
+2012-03-05,QQQ,TQQQ,BULL,VIX_BULL,56.84,0.51,65.03,100.00,100.00,BUY_TQQQ,50.96,15.57,Trade: BUY TQQQ
+2012-03-06,QQQ,TQQQ,BULL,VIX_CHOP,56.28,0.49,57.43,100.00,100.00,HOLD,0.00,11.04,Hold blocked | Diff below min rebalance change
+2012-03-07,QQQ,TQQQ,BULL,VIX_BULL,56.72,0.51,61.26,100.00,100.00,HOLD,0.00,15.57,Diff below min rebalance change
+2012-03-08,QQQ,TQQQ,BULL,VIX_BULL,57.33,0.52,65.85,100.00,100.00,HOLD,0.00,17.84,Diff below min rebalance change
+2012-03-09,QQQ,TQQQ,BULL,VIX_BULL,57.56,0.53,67.42,100.00,100.00,HOLD,0.00,20.10,Diff below min rebalance change
+2012-03-12,QQQ,TQQQ,BULL,VIX_BULL,57.59,0.53,67.62,100.00,100.00,HOLD,0.00,20.10,Diff below min rebalance change
+2012-03-13,QQQ,TQQQ,BULL,VIX_BULL,58.66,0.56,74.02,50.00,50.00,SELL_TQQQ,-50.00,26.90,Trade: SELL TQQQ
+2012-03-14,QQQ,TQQQ,BULL,VIX_BULL,58.87,0.57,75.06,50.00,50.44,HOLD,-0.44,28.03,Hold blocked | Diff below min rebalance change
+2012-03-15,QQQ,TQQQ,BULL,VIX_BULL,59.03,0.57,75.85,50.00,50.44,HOLD,-0.44,28.03,Diff below min rebalance change
+2012-03-16,QQQ,TQQQ,BULL,VIX_BULL,58.99,0.57,75.21,50.00,50.44,HOLD,-0.44,28.03,Diff below min rebalance change
+2012-03-19,QQQ,TQQQ,BULL,VIX_BULL,59.41,0.58,77.38,50.00,50.88,HOLD,-0.88,29.17,Diff below min rebalance change
+2012-03-20,QQQ,TQQQ,BULL,VIX_BULL,59.52,0.58,77.93,50.00,50.88,HOLD,-0.88,29.17,Diff below min rebalance change
+2012-03-21,QQQ,TQQQ,BULL,VIX_BULL,59.53,0.58,77.98,50.00,50.88,HOLD,-0.88,29.17,Diff below min rebalance change
+2012-03-22,QQQ,TQQQ,BULL,VIX_BULL,59.40,0.58,75.49,50.00,50.88,HOLD,-0.88,29.17,Diff below min rebalance change
+2012-03-23,QQQ,TQQQ,BULL,VIX_BULL,59.37,0.58,74.89,50.00,50.88,HOLD,-0.88,29.17,Diff below min rebalance change
+2012-03-26,QQQ,TQQQ,BULL,VIX_BULL,60.40,0.61,80.55,50.00,50.00,SELL_TQQQ,-2.14,32.57,Trade: SELL TQQQ
+2012-03-27,QQQ,TQQQ,BULL,VIX_BULL,60.49,0.61,80.96,50.00,50.00,HOLD,0.00,32.57,Hold blocked | Diff below min rebalance change
+2012-03-28,QQQ,TQQQ,BULL,VIX_BULL,60.25,0.61,76.40,50.00,50.00,HOLD,0.00,32.57,Diff below min rebalance change
+2012-03-29,QQQ,TQQQ,BULL,VIX_BULL,60.02,0.60,72.20,50.00,49.59,HOLD,0.41,31.48,Diff below min rebalance change
+2012-03-30,QQQ,TQQQ,BULL,VIX_BULL,59.91,0.59,70.22,50.00,49.17,HOLD,0.83,30.39,Diff below min rebalance change
+2012-04-02,QQQ,TQQQ,BULL,VIX_BULL,60.53,0.61,74.48,50.00,50.00,HOLD,0.00,32.57,Diff below min rebalance change
+2012-04-03,QQQ,TQQQ,BULL,VIX_BULL,60.51,0.61,74.11,50.00,50.00,HOLD,0.00,32.57,Diff below min rebalance change
+2012-04-04,QQQ,TQQQ,BULL,VIX_BULL,59.68,0.59,60.69,100.00,100.00,BUY_TQQQ,50.83,30.39,Trade: BUY TQQQ
+2012-04-05,QQQ,TQQQ,BULL,VIX_BULL,60.06,0.60,63.92,100.00,100.00,HOLD,0.00,32.60,Hold blocked | Diff below min rebalance change
+2012-04-09,QQQ,TQQQ,BULL,VIX_BULL,59.60,0.58,57.75,100.00,100.00,HOLD,0.00,28.18,Diff below min rebalance change
+2012-04-10,QQQ,TQQQ,BULL,VIX_CHOP,58.65,0.56,47.54,0.00,0.00,SELL_TQQQ,-100.00,23.76,TQQQ stop loss | No change vs current exposure | Trade: SELL TQQQ
+2012-04-11,QQQ,TQQQ,BULL,VIX_CHOP,58.93,0.56,50.33,100.00,0.00,HOLD,100.00,23.76,Hold blocked
+2012-04-12,QQQ,TQQQ,BULL,VIX_BULL,59.60,0.58,56.31,100.00,100.00,BUY_TQQQ,100.00,23.76,Trade: BUY TQQQ
+2012-04-13,QQQ,TQQQ,BULL,VIX_BULL,58.70,0.56,47.96,0.00,0.00,SELL_TQQQ,-100.00,19.49,Panic trigger active | Panic cooldown active | No change vs current exposure | Trade: SELL TQQQ
+2012-04-16,QQQ,TQQQ,BULL,VIX_BULL,58.04,0.54,42.93,0.00,0.00,HOLD,0.00,19.49,Panic trigger active | Panic cooldown active | No change vs current exposure
+2012-04-17,QQQ,TQQQ,BULL,VIX_BULL,59.22,0.57,52.51,0.00,0.00,HOLD,0.00,19.49,Panic cooldown active | No change vs current exposure
+2012-04-18,QQQ,TQQQ,BULL,VIX_BULL,59.07,0.57,51.33,0.00,0.00,HOLD,0.00,19.49,Panic cooldown active | No change vs current exposure
+2012-04-19,QQQ,TQQQ,BULL,VIX_BULL,58.41,0.55,46.39,0.00,0.00,HOLD,0.00,19.49,Panic cooldown active | No change vs current exposure
+2012-04-20,QQQ,TQQQ,BULL,VIX_BULL,58.25,0.54,45.26,0.00,0.00,HOLD,0.00,19.49,Panic cooldown active | No change vs current exposure
+2012-04-23,QQQ,TQQQ,CHOP,VIX_BULL,57.72,0.53,41.62,0.00,0.00,HOLD,0.00,19.49,Panic cooldown active | No change vs current exposure
+2012-04-24,QQQ,TQQQ,CHOP,VIX_BULL,57.41,0.52,39.61,0.00,0.00,HOLD,0.00,19.49,Panic trigger active | Panic cooldown active | No change vs current exposure
+2012-04-25,QQQ,TQQQ,BULL,VIX_BULL,58.93,0.56,51.86,0.00,0.00,HOLD,0.00,19.49,Panic cooldown active | No change vs current exposure
+2012-04-26,QQQ,TQQQ,BULL,VIX_BULL,59.28,0.57,54.17,0.00,0.00,HOLD,0.00,19.49,Panic cooldown active | No change vs current exposure
+2012-04-27,QQQ,TQQQ,BULL,VIX_BULL,59.63,0.58,56.42,0.00,0.00,HOLD,0.00,19.49,Panic cooldown active | No change vs current exposure
+2012-04-30,QQQ,TQQQ,BULL,VIX_BULL,59.21,0.57,53.05,0.00,0.00,HOLD,0.00,19.49,Panic cooldown active | No change vs current exposure
+2012-05-01,QQQ,TQQQ,BULL,VIX_BULL,59.30,0.57,53.69,0.00,0.00,HOLD,0.00,19.49,Panic cooldown active | No change vs current exposure
+2012-05-02,QQQ,TQQQ,BULL,VIX_BULL,59.47,0.58,54.94,0.00,0.00,HOLD,0.00,19.49,Panic cooldown active | No change vs current exposure
+2012-05-03,QQQ,TQQQ,BULL,VIX_BULL,58.84,0.56,49.62,0.00,0.00,HOLD,0.00,19.49,Panic cooldown active | No change vs current exposure
+2012-05-04,QQQ,TQQQ,CHOP,VIX_BULL,57.38,0.52,39.96,0.00,0.00,HOLD,0.00,19.49,Panic cooldown active | No change vs current exposure
+2012-05-07,QQQ,TQQQ,CHOP,VIX_BULL,57.43,0.52,40.39,0.00,0.00,HOLD,0.00,19.49,Panic cooldown active | No change vs current exposure
+2012-05-08,QQQ,TQQQ,CHOP,VIX_BULL,57.22,0.51,39.12,0.00,0.00,HOLD,0.00,19.49,Panic trigger active | Panic cooldown active | No change vs current exposure
+2012-05-09,QQQ,TQQQ,CHOP,VIX_CHOP,57.04,0.51,38.03,0.00,0.00,HOLD,0.00,19.49,Panic trigger active | Panic cooldown active | No change vs current exposure
+2012-05-10,QQQ,TQQQ,CHOP,VIX_BULL,56.93,0.50,37.34,0.00,0.00,HOLD,0.00,19.49,Panic trigger active | Panic cooldown active | No change vs current exposure
+2012-05-11,QQQ,TQQQ,CHOP,VIX_BULL,56.92,0.50,37.27,0.00,0.00,HOLD,0.00,19.49,Panic trigger active | Panic cooldown active | No change vs current exposure
+2012-05-14,QQQ,TQQQ,CHOP,VIX_CHOP,56.39,0.49,33.85,0.00,0.00,HOLD,0.00,19.49,Panic trigger active | Panic cooldown active | No change vs current exposure
+2012-05-15,QQQ,TQQQ,CHOP,VIX_CHOP,56.20,0.49,32.70,0.00,0.00,HOLD,0.00,19.49,Panic trigger active | Panic cooldown active | No change vs current exposure
+2012-05-16,QQQ,TQQQ,CHOP,VIX_CHOP,55.82,0.47,30.45,0.00,0.00,HOLD,0.00,19.49,Panic cooldown active | No change vs current exposure
+2012-05-17,QQQ,TQQQ,CHOP,VIX_CHOP,54.64,0.45,24.77,0.00,0.00,HOLD,0.00,19.49,Panic trigger active | Panic cooldown active | No change vs current exposure
+2012-05-18,QQQ,TQQQ,CHOP,VIX_CHOP,53.93,0.43,22.10,0.00,0.00,HOLD,0.00,19.49,Panic trigger active | Panic cooldown active | No change vs current exposure
+2012-05-21,QQQ,TQQQ,CHOP,VIX_CHOP,55.44,0.46,37.53,0.00,0.00,HOLD,0.00,19.49,Panic cooldown active | No change vs current exposure
+2012-05-22,QQQ,TQQQ,CHOP,VIX_CHOP,55.37,0.46,37.17,0.00,0.00,HOLD,0.00,19.49,Panic cooldown active | No change vs current exposure
+2012-05-23,QQQ,TQQQ,CHOP,VIX_CHOP,55.48,0.46,38.19,0.00,0.00,HOLD,0.00,19.49,Panic cooldown active | No change vs current exposure
+2012-05-24,QQQ,TQQQ,CHOP,VIX_CHOP,55.12,0.46,36.11,0.00,0.00,HOLD,0.00,19.49,Panic cooldown active | No change vs current exposure
+2012-05-25,QQQ,TQQQ,CHOP,VIX_CHOP,55.05,0.45,35.71,0.00,0.00,HOLD,0.00,19.49,Panic cooldown active | No change vs current exposure
+2012-05-29,QQQ,TQQQ,CHOP,VIX_CHOP,55.75,0.47,42.66,0.00,0.00,HOLD,0.00,19.49,Panic cooldown active | No change vs current exposure
+2012-05-30,QQQ,TQQQ,CHOP,VIX_CHOP,55.28,0.46,39.56,0.00,0.00,HOLD,0.00,19.49,Panic cooldown active | No change vs current exposure
+2012-05-31,QQQ,TQQQ,CHOP,VIX_CHOP,55.04,0.45,38.05,0.00,0.00,HOLD,0.00,19.49,Panic cooldown active | No change vs current exposure
+2012-06-01,QQQ,TQQQ,CHOP,VIX_CHOP,53.57,0.42,30.37,0.00,0.00,HOLD,0.00,19.49,Panic trigger active | Panic cooldown active | No change vs current exposure
+2012-06-04,QQQ,TQQQ,CHOP,VIX_CHOP,53.98,0.43,34.35,0.00,0.00,HOLD,0.00,19.49,Panic cooldown active | No change vs current exposure
+2012-06-05,QQQ,TQQQ,CHOP,VIX_CHOP,54.20,0.43,36.45,0.00,0.00,HOLD,0.00,19.49,Panic cooldown active | No change vs current exposure
+2012-06-06,QQQ,TQQQ,CHOP,VIX_CHOP,55.45,0.46,46.85,0.00,0.00,HOLD,0.00,19.49,Panic cooldown active | No change vs current exposure
+2012-06-07,QQQ,TQQQ,CHOP,VIX_CHOP,55.22,0.46,45.38,0.00,0.00,HOLD,0.00,19.49,Panic cooldown active | No change vs current exposure
+2012-06-08,QQQ,TQQQ,CHOP,VIX_CHOP,55.76,0.47,49.39,0.00,0.00,HOLD,0.00,19.49,Panic cooldown active | No change vs current exposure
+2012-06-11,QQQ,TQQQ,CHOP,VIX_CHOP,54.82,0.45,43.41,0.00,0.00,HOLD,0.00,19.49,Panic cooldown active | No change vs current exposure
+2012-06-12,QQQ,TQQQ,CHOP,VIX_CHOP,55.48,0.46,48.16,0.00,0.00,HOLD,0.00,19.49,Panic cooldown active | No change vs current exposure
+2012-06-13,QQQ,TQQQ,CHOP,VIX_CHOP,55.10,0.45,45.78,0.00,0.00,HOLD,0.00,19.49,Panic cooldown active | No change vs current exposure
+2012-06-14,QQQ,TQQQ,CHOP,VIX_CHOP,55.30,0.46,47.25,0.00,0.00,HOLD,0.00,19.49,Panic cooldown active | No change vs current exposure
+2012-06-15,QQQ,TQQQ,CHOP,VIX_CHOP,55.99,0.47,52.11,66.61,0.00,HOLD,0.00,19.49,Panic re-entry lock | Blocked: only long on BULL after BEAR | Blocked: no buys in CHOP until BULL | Targets suppressed | Diff below min rebalance change
+2012-06-18,QQQ,TQQQ,CHOP,VIX_BULL,56.52,0.49,55.50,87.20,0.00,HOLD,0.00,19.49,Panic re-entry lock | Blocked: only long on BULL after BEAR | Blocked: no buys in CHOP until BULL | Targets suppressed | Diff below min rebalance change
+2012-06-19,QQQ,TQQQ,BULL,VIX_BULL,57.10,0.50,58.92,100.00,100.00,BUY_TQQQ,100.00,19.49,Trade: BUY TQQQ
+2012-06-20,QQQ,TQQQ,BULL,VIX_BULL,57.15,0.50,59.21,100.00,100.00,HOLD,0.00,19.49,Hold blocked | Diff below min rebalance change
+2012-06-21,QQQ,TQQQ,CHOP,VIX_CHOP,55.72,0.47,48.60,0.00,0.00,SELL_TQQQ,-100.00,12.32,TQQQ stop loss | No change vs current exposure | Trade: SELL TQQQ
+2012-06-22,QQQ,TQQQ,CHOP,VIX_BULL,56.31,0.48,52.39,86.16,0.00,HOLD,0.00,12.32,Blocked: only long on BULL after BEAR | Blocked: no buys in CHOP until BULL | Targets suppressed | Hold blocked | Diff below min rebalance change
+2012-06-25,QQQ,TQQQ,CHOP,VIX_CHOP,55.23,0.45,45.74,49.25,0.00,HOLD,0.00,12.32,Blocked: only long on BULL after BEAR | Blocked: no buys in CHOP until BULL | Targets suppressed | Diff below min rebalance change
+2012-06-26,QQQ,TQQQ,CHOP,VIX_BULL,55.57,0.46,47.98,61.31,0.00,HOLD,0.00,12.32,Blocked: only long on BULL after BEAR | Blocked: no buys in CHOP until BULL | Targets suppressed | Diff below min rebalance change
+2012-06-27,QQQ,TQQQ,CHOP,VIX_BULL,55.91,0.47,50.19,76.14,0.00,HOLD,0.00,12.32,Blocked: only long on BULL after BEAR | Blocked: no buys in CHOP until BULL | Targets suppressed | Diff below min rebalance change
+2012-06-28,QQQ,TQQQ,CHOP,VIX_BULL,55.29,0.45,46.32,54.76,0.00,HOLD,0.00,12.32,Blocked: only long on BULL after BEAR | Blocked: no buys in CHOP until BULL | Targets suppressed | Diff below min rebalance change
+2012-06-29,QQQ,TQQQ,BULL,VIX_BULL,57.03,0.50,56.47,100.00,100.00,BUY_TQQQ,100.00,12.32,Trade: BUY TQQQ
+2012-07-02,QQQ,TQQQ,BULL,VIX_BULL,57.20,0.50,57.32,100.00,100.00,HOLD,0.00,12.32,Hold blocked | Diff below min rebalance change
+2012-07-03,QQQ,TQQQ,BULL,VIX_BULL,57.68,0.51,59.71,100.00,100.00,HOLD,0.00,14.57,Diff below min rebalance change
+2012-07-05,QQQ,TQQQ,BULL,VIX_BULL,57.72,0.51,59.91,100.00,100.00,HOLD,0.00,14.57,Diff below min rebalance change
+2012-07-06,QQQ,TQQQ,BULL,VIX_BULL,57.00,0.49,54.61,100.00,100.00,HOLD,0.00,10.08,Diff below min rebalance change
+2012-07-09,QQQ,TQQQ,BULL,VIX_BULL,56.89,0.49,53.83,100.00,100.00,HOLD,0.00,10.08,Diff below min rebalance change
+2012-07-10,QQQ,TQQQ,BULL,VIX_BULL,56.33,0.48,49.91,100.00,100.00,HOLD,0.00,7.83,Diff below min rebalance change
+2012-07-11,QQQ,TQQQ,CHOP,VIX_BULL,56.02,0.47,47.83,0.00,0.00,SELL_TQQQ,-100.00,5.59,TQQQ stop loss | No change vs current exposure | Trade: SELL TQQQ
+2012-07-12,QQQ,TQQQ,CHOP,VIX_BULL,55.49,0.46,44.43,71.35,0.00,HOLD,0.00,5.59,Blocked: only long on BULL after BEAR | Blocked: no buys in CHOP until BULL | Targets suppressed | Hold blocked | Diff below min rebalance change
+2012-07-13,QQQ,TQQQ,BULL,VIX_BULL,56.34,0.48,50.51,100.00,100.00,BUY_TQQQ,100.00,5.59,Trade: BUY TQQQ
+2012-07-16,QQQ,TQQQ,BULL,VIX_BULL,56.18,0.47,49.42,100.00,100.00,HOLD,0.00,3.39,Hold blocked | Diff below min rebalance change
+2012-07-17,QQQ,TQQQ,BULL,VIX_BULL,56.47,0.48,51.47,100.00,100.00,HOLD,0.00,5.59,Diff below min rebalance change
+2012-07-18,QQQ,TQQQ,BULL,VIX_BULL,57.24,0.50,56.53,100.00,100.00,HOLD,0.00,9.98,Diff below min rebalance change
+2012-07-19,QQQ,TQQQ,BULL,VIX_BULL,57.87,0.52,60.18,100.00,100.00,HOLD,0.00,14.38,Diff below min rebalance change
+2012-07-20,QQQ,TQQQ,BULL,VIX_BULL,57.10,0.50,54.19,100.00,100.00,HOLD,0.00,9.98,Diff below min rebalance change
+2012-07-23,QQQ,TQQQ,BULL,VIX_BULL,56.41,0.48,49.43,100.00,100.00,HOLD,0.00,5.59,Diff below min rebalance change
+2012-07-24,QQQ,TQQQ,BULL,VIX_CHOP,55.96,0.47,46.57,100.00,100.00,HOLD,0.00,3.39,Diff below min rebalance change
+2012-07-25,QQQ,TQQQ,CHOP,VIX_BULL,55.59,0.46,44.29,74.55,100.00,HOLD,-25.45,1.19,Blocked: CHOP confirm window | Diff below min rebalance change
+2012-07-26,QQQ,TQQQ,BULL,VIX_BULL,56.33,0.48,49.60,100.00,100.00,HOLD,0.00,5.59,Diff below min rebalance change
+2012-07-27,QQQ,TQQQ,BULL,VIX_BULL,57.66,0.51,57.44,100.00,100.00,HOLD,0.00,12.18,Diff below min rebalance change
+2012-07-30,QQQ,TQQQ,BULL,VIX_BULL,57.62,0.51,57.15,100.00,100.00,HOLD,0.00,12.18,Diff below min rebalance change
+2012-07-31,QQQ,TQQQ,BULL,VIX_BULL,57.60,0.51,57.00,100.00,100.00,HOLD,0.00,12.18,Diff below min rebalance change
+2012-08-01,QQQ,TQQQ,BULL,VIX_BULL,57.43,0.50,55.63,100.00,100.00,HOLD,0.00,9.98,Diff below min rebalance change
+2012-08-02,QQQ,TQQQ,BULL,VIX_BULL,57.23,0.50,53.98,100.00,100.00,HOLD,0.00,9.98,Diff below min rebalance change
+2012-08-03,QQQ,TQQQ,BULL,VIX_BULL,58.31,0.53,60.73,100.00,100.00,HOLD,0.00,16.58,Diff below min rebalance change
+2012-08-06,QQQ,TQQQ,BULL,VIX_BULL,58.76,0.54,63.16,100.00,100.00,HOLD,0.00,18.78,Diff below min rebalance change
+2012-08-07,QQQ,TQQQ,BULL,VIX_BULL,59.24,0.55,65.60,100.00,100.00,HOLD,0.00,20.98,Diff below min rebalance change
+2012-08-08,QQQ,TQQQ,BULL,VIX_BULL,59.22,0.55,65.41,100.00,100.00,HOLD,0.00,20.98,Diff below min rebalance change
+2012-08-09,QQQ,TQQQ,BULL,VIX_BULL,59.40,0.56,66.37,100.00,100.00,HOLD,0.00,23.18,Diff below min rebalance change
+2012-08-10,QQQ,TQQQ,BULL,VIX_BULL,59.43,0.56,66.54,100.00,100.00,HOLD,0.00,23.18,Diff below min rebalance change
+2012-08-13,QQQ,TQQQ,BULL,VIX_BULL,59.57,0.56,67.36,100.00,100.00,HOLD,0.00,23.18,Diff below min rebalance change
+2012-08-14,QQQ,TQQQ,BULL,VIX_BULL,59.60,0.56,67.54,100.00,100.00,HOLD,0.00,23.18,Diff below min rebalance change
+2012-08-15,QQQ,TQQQ,BULL,VIX_BULL,59.75,0.57,68.50,100.00,100.00,HOLD,0.00,25.38,Diff below min rebalance change
+2012-08-16,QQQ,TQQQ,BULL,VIX_BULL,60.46,0.59,72.59,50.00,50.00,SELL_TQQQ,-50.00,29.78,Trade: SELL TQQQ
+2012-08-17,QQQ,TQQQ,BULL,VIX_BULL,60.73,0.59,73.98,50.00,50.00,HOLD,0.00,29.78,Hold blocked | Diff below min rebalance change
+2012-08-20,QQQ,TQQQ,BULL,VIX_BULL,60.82,0.60,74.44,50.00,50.42,HOLD,-0.42,30.88,Diff below min rebalance change
+2012-08-21,QQQ,TQQQ,BULL,VIX_BULL,60.58,0.59,70.82,50.00,50.00,HOLD,0.00,29.78,Diff below min rebalance change
+2012-08-22,QQQ,TQQQ,BULL,VIX_BULL,60.83,0.60,72.33,50.00,50.42,HOLD,-0.42,30.88,Diff below min rebalance change
+2012-08-23,QQQ,TQQQ,BULL,VIX_BULL,60.33,0.58,65.07,100.00,100.00,BUY_TQQQ,50.43,28.68,Trade: BUY TQQQ
+2012-08-24,QQQ,TQQQ,BULL,VIX_BULL,60.70,0.59,67.66,100.00,100.00,HOLD,0.00,30.90,Hold blocked | Diff below min rebalance change
+2012-08-27,QQQ,TQQQ,BULL,VIX_BULL,60.80,0.60,68.34,100.00,100.00,HOLD,0.00,33.12,Diff below min rebalance change
+2012-08-28,QQQ,TQQQ,BULL,VIX_BULL,60.80,0.60,68.34,100.00,100.00,HOLD,0.00,33.12,Diff below min rebalance change
+2012-08-29,QQQ,TQQQ,BULL,VIX_BULL,60.80,0.60,68.34,100.00,100.00,HOLD,0.00,33.12,Diff below min rebalance change
+2012-08-30,QQQ,TQQQ,BULL,VIX_BULL,60.19,0.58,58.87,100.00,100.00,HOLD,0.00,28.68,Diff below min rebalance change
+2012-08-31,QQQ,TQQQ,BULL,VIX_BULL,60.59,0.59,62.54,100.00,100.00,HOLD,0.00,30.90,Diff below min rebalance change
+2012-09-04,QQQ,TQQQ,BULL,VIX_BULL,60.52,0.59,61.50,100.00,100.00,HOLD,0.00,30.90,Diff below min rebalance change
+2012-09-05,QQQ,TQQQ,BULL,VIX_BULL,60.46,0.59,60.58,100.00,100.00,HOLD,0.00,30.90,Diff below min rebalance change
+2012-09-06,QQQ,TQQQ,BULL,VIX_BULL,61.80,0.62,71.04,50.00,50.00,SELL_TQQQ,-50.00,37.56,Trade: SELL TQQQ
+2012-09-07,QQQ,TQQQ,BULL,VIX_BULL,61.72,0.62,69.85,100.00,50.00,HOLD,50.00,37.56,Hold blocked
+2012-09-10,QQQ,TQQQ,BULL,VIX_BULL,60.92,0.60,59.16,100.00,100.00,BUY_TQQQ,50.82,35.34,Trade: BUY TQQQ
+2012-09-11,QQQ,TQQQ,BULL,VIX_BULL,60.83,0.60,58.08,100.00,100.00,HOLD,0.00,35.34,Hold blocked | Diff below min rebalance change
+2012-09-12,QQQ,TQQQ,BULL,VIX_BULL,61.00,0.60,59.58,100.00,100.00,HOLD,0.00,35.34,Diff below min rebalance change
+2012-09-13,QQQ,TQQQ,BULL,VIX_BULL,61.83,0.62,65.97,100.00,100.00,HOLD,0.00,39.85,Diff below min rebalance change
+2012-09-14,QQQ,TQQQ,BULL,VIX_BULL,62.38,0.64,69.42,100.00,100.00,HOLD,0.00,44.36,Diff below min rebalance change
+2012-09-17,QQQ,TQQQ,BULL,VIX_BULL,62.41,0.64,69.60,100.00,100.00,HOLD,0.00,44.36,Diff below min rebalance change
+2012-09-18,QQQ,TQQQ,BULL,VIX_BULL,62.46,0.64,69.92,100.00,100.00,HOLD,0.00,44.36,Diff below min rebalance change
+2012-09-19,QQQ,TQQQ,BULL,VIX_BULL,62.58,0.65,70.71,50.00,50.00,SELL_TQQQ,-50.00,46.62,Trade: SELL TQQQ
+2012-09-20,QQQ,TQQQ,BULL,VIX_BULL,62.52,0.65,69.72,100.00,50.00,HOLD,50.00,46.62,Hold blocked
+2012-09-21,QQQ,TQQQ,BULL,VIX_BULL,62.53,0.65,69.80,100.00,100.00,BUY_TQQQ,50.00,46.62,Trade: BUY TQQQ
+2012-09-24,QQQ,TQQQ,BULL,VIX_BULL,62.17,0.63,63.60,100.00,100.00,HOLD,0.00,42.10,Hold blocked | Diff below min rebalance change
+2012-09-25,QQQ,TQQQ,BULL,VIX_BULL,61.29,0.61,51.55,0.00,0.00,SELL_TQQQ,-100.00,37.59,TQQQ stop loss | No change vs current exposure | Trade: SELL TQQQ
+2012-09-26,QQQ,TQQQ,BULL,VIX_BULL,60.79,0.59,46.19,100.00,0.00,HOLD,100.00,37.59,Hold blocked
+2012-09-27,QQQ,TQQQ,BULL,VIX_BULL,61.63,0.62,54.71,100.00,100.00,BUY_TQQQ,100.00,37.59,Trade: BUY TQQQ
+2012-09-28,QQQ,TQQQ,BULL,VIX_BULL,61.12,0.60,49.58,100.00,100.00,HOLD,0.00,33.16,Hold blocked | Diff below min rebalance change
+2012-10-01,QQQ,TQQQ,BULL,VIX_BULL,61.04,0.60,48.80,100.00,100.00,HOLD,0.00,33.16,Diff below min rebalance change
+2012-10-02,QQQ,TQQQ,BULL,VIX_BULL,61.21,0.60,50.57,100.00,100.00,HOLD,0.00,33.16,Diff below min rebalance change
+2012-10-03,QQQ,TQQQ,BULL,VIX_BULL,61.61,0.62,54.54,100.00,100.00,HOLD,0.00,37.59,Diff below min rebalance change
+2012-10-04,QQQ,TQQQ,BULL,VIX_BULL,61.82,0.62,56.51,100.00,100.00,HOLD,0.00,37.59,Diff below min rebalance change
+2012-10-05,QQQ,TQQQ,BULL,VIX_BULL,61.49,0.61,52.64,100.00,100.00,HOLD,0.00,35.37,Diff below min rebalance change
+2012-10-08,QQQ,TQQQ,BULL,VIX_BULL,60.93,0.60,46.79,100.00,100.00,HOLD,0.00,33.16,Diff below min rebalance change
+2012-10-09,QQQ,TQQQ,CHOP,VIX_BULL,59.96,0.57,38.75,0.00,0.00,SELL_TQQQ,-100.00,26.50,TQQQ stop loss | No change vs current exposure | Trade: SELL TQQQ
+2012-10-10,QQQ,TQQQ,CHOP,VIX_BULL,59.65,0.56,36.59,65.71,0.00,HOLD,0.00,26.50,Blocked: only long on BULL after BEAR | Blocked: no buys in CHOP until BULL | Targets suppressed | Hold blocked | Diff below min rebalance change
+2012-10-11,QQQ,TQQQ,CHOP,VIX_BULL,59.47,0.55,35.35,59.51,0.00,HOLD,0.00,26.50,Blocked: only long on BULL after BEAR | Blocked: no buys in CHOP until BULL | Targets suppressed | Diff below min rebalance change
+2012-10-12,QQQ,TQQQ,CHOP,VIX_BULL,59.44,0.55,35.14,57.56,0.00,HOLD,0.00,26.50,Blocked: only long on BULL after BEAR | Blocked: no buys in CHOP until BULL | Targets suppressed | Diff below min rebalance change
+2012-10-15,QQQ,TQQQ,CHOP,VIX_BULL,59.88,0.56,40.77,69.15,0.00,HOLD,0.00,26.50,Blocked: only long on BULL after BEAR | Blocked: no buys in CHOP until BULL | Targets suppressed | Diff below min rebalance change
+2012-10-16,QQQ,TQQQ,CHOP,VIX_BULL,60.72,0.59,49.74,95.60,0.00,HOLD,0.00,26.50,Blocked: only long on BULL after BEAR | Blocked: no buys in CHOP until BULL | Targets suppressed | Diff below min rebalance change
+2012-10-17,QQQ,TQQQ,CHOP,VIX_BULL,60.69,0.59,49.45,93.46,0.00,HOLD,0.00,26.50,Blocked: only long on BULL after BEAR | Blocked: no buys in CHOP until BULL | Targets suppressed | Diff below min rebalance change
+2012-10-18,QQQ,TQQQ,CHOP,VIX_BULL,59.98,0.57,43.09,69.42,0.00,HOLD,0.00,26.50,Blocked: only long on BULL after BEAR | Blocked: no buys in CHOP until BULL | Targets suppressed | Diff below min rebalance change
+2012-10-19,QQQ,TQQQ,CHOP,VIX_BULL,58.55,0.53,33.69,33.90,0.00,HOLD,0.00,26.50,Blocked: only long on BULL after BEAR | Blocked: no buys in CHOP until BULL | Targets suppressed | Diff below min rebalance change
+2012-10-22,QQQ,TQQQ,CHOP,VIX_BULL,58.85,0.53,36.81,39.91,0.00,HOLD,0.00,26.50,Blocked: only long on BULL after BEAR | Blocked: no buys in CHOP until BULL | Targets suppressed | Diff below min rebalance change
+2012-10-23,QQQ,TQQQ,CHOP,VIX_BULL,58.29,0.52,33.63,28.81,0.00,HOLD,0.00,26.50,Blocked: only long on BULL after BEAR | Blocked: no buys in CHOP until BULL | Targets suppressed | Diff below min rebalance change
+2012-10-24,QQQ,TQQQ,CHOP,VIX_BULL,58.08,0.51,32.50,25.27,0.00,HOLD,0.00,26.50,Blocked: only long on BULL after BEAR | Blocked: no buys in CHOP until BULL | Targets suppressed | Diff below min rebalance change
+2012-10-25,QQQ,TQQQ,CHOP,VIX_BULL,58.08,0.51,32.50,0.00,0.00,HOLD,0.00,26.50,Panic trigger active | Panic cooldown active | No change vs current exposure
+2012-10-26,QQQ,TQQQ,CHOP,VIX_BULL,58.25,0.52,34.57,0.00,0.00,HOLD,0.00,26.50,Panic trigger active | Panic cooldown active | No change vs current exposure
+2012-10-31,QQQ,TQQQ,CHOP,VIX_BULL,57.90,0.51,32.37,0.00,0.00,HOLD,0.00,26.50,Panic trigger active | Panic cooldown active | No change vs current exposure
+2012-11-01,QQQ,TQQQ,CHOP,VIX_BULL,58.72,0.53,41.72,0.00,0.00,HOLD,0.00,26.50,Panic cooldown active | No change vs current exposure
+2012-11-02,QQQ,TQQQ,CHOP,VIX_BULL,58.09,0.51,37.44,0.00,0.00,HOLD,0.00,26.50,Panic cooldown active | No change vs current exposure
+2012-11-05,QQQ,TQQQ,CHOP,VIX_BULL,58.48,0.52,41.45,0.00,0.00,HOLD,0.00,26.50,Panic cooldown active | No change vs current exposure
+2012-11-06,QQQ,TQQQ,CHOP,VIX_BULL,58.58,0.53,42.46,0.00,0.00,HOLD,0.00,26.50,Panic cooldown active | No change vs current exposure
+2012-11-07,QQQ,TQQQ,CHOP,VIX_BULL,57.20,0.49,33.75,0.00,0.00,HOLD,0.00,26.50,Panic cooldown active | No change vs current exposure
+2012-11-08,QQQ,TQQQ,CHOP,VIX_BULL,56.30,0.47,29.49,0.00,0.00,HOLD,0.00,26.50,Panic trigger active | Panic cooldown active | No change vs current exposure
+2012-11-09,QQQ,TQQQ,CHOP,VIX_BULL,56.54,0.47,31.96,0.00,0.00,HOLD,0.00,26.50,Panic cooldown active | No change vs current exposure
+2012-11-12,QQQ,TQQQ,CHOP,VIX_BULL,56.53,0.47,31.91,0.00,0.00,HOLD,0.00,26.50,Panic cooldown active | No change vs current exposure
+2012-11-13,QQQ,TQQQ,BEAR_PENDING,VIX_BULL,56.14,0.46,29.94,0.00,0.00,HOLD,0.00,26.50,Panic trigger active | Panic cooldown active | No change vs current exposure
+2012-11-14,QQQ,TQQQ,BEAR_PENDING,VIX_BULL,55.48,0.44,26.91,0.00,0.00,HOLD,0.00,26.50,Panic trigger active | Panic cooldown active | No change vs current exposure
+2012-11-15,QQQ,TQQQ,BEAR,VIX_BULL,55.29,0.44,26.10,0.00,0.00,HOLD,0.00,26.50,Panic cooldown active | Diff below min rebalance change | No change vs current exposure
+2012-11-16,QQQ,TQQQ,BEAR,VIX_BULL,55.54,0.45,29.15,0.00,0.00,HOLD,0.00,26.50,Panic cooldown active | Diff below min rebalance change | No change vs current exposure
+2012-11-19,QQQ,TQQQ,CHOP,VIX_BULL,56.85,0.48,42.53,0.00,0.00,HOLD,0.00,26.50,Panic cooldown active | No change vs current exposure
+2012-11-20,QQQ,TQQQ,CHOP,VIX_BULL,56.87,0.48,42.71,0.00,0.00,HOLD,0.00,26.50,Panic cooldown active | No change vs current exposure
+2012-11-21,QQQ,TQQQ,CHOP,VIX_BULL,56.99,0.48,43.83,0.00,0.00,HOLD,0.00,26.50,Panic cooldown active | No change vs current exposure
+2012-11-23,QQQ,TQQQ,CHOP,VIX_BULL,57.85,0.50,51.21,0.00,0.00,HOLD,0.00,26.50,Panic cooldown active | No change vs current exposure
+2012-11-26,QQQ,TQQQ,CHOP,VIX_BULL,58.10,0.51,53.14,0.00,0.00,HOLD,0.00,26.50,Panic cooldown active | No change vs current exposure
+2012-11-27,QQQ,TQQQ,CHOP,VIX_BULL,57.91,0.50,51.48,0.00,0.00,HOLD,0.00,26.50,Panic cooldown active | No change vs current exposure
+2012-11-28,QQQ,TQQQ,CHOP,VIX_BULL,58.41,0.52,55.43,0.00,0.00,HOLD,0.00,26.50,Panic cooldown active | No change vs current exposure
+2012-11-29,QQQ,TQQQ,CHOP,VIX_BULL,58.75,0.53,57.95,71.12,0.00,HOLD,0.00,26.50,Panic re-entry lock | Blocked: only long on BULL after BEAR | Blocked: no buys in CHOP until BULL | Targets suppressed | Diff below min rebalance change
+2012-11-30,QQQ,TQQQ,CHOP,VIX_BULL,58.66,0.52,57.03,68.86,0.00,HOLD,0.00,26.50,Panic re-entry lock | Blocked: only long on BULL after BEAR | Blocked: no buys in CHOP until BULL | Targets suppressed | Diff below min rebalance change
+2012-12-03,QQQ,TQQQ,CHOP,VIX_BULL,58.54,0.52,55.76,64.61,0.00,HOLD,0.00,26.50,Panic re-entry lock | Blocked: only long on BULL after BEAR | Blocked: no buys in CHOP until BULL | Targets suppressed | Diff below min rebalance change
+2012-12-04,QQQ,TQQQ,CHOP,VIX_BULL,58.50,0.52,55.32,65.73,0.00,HOLD,0.00,26.50,Panic re-entry lock | Blocked: only long on BULL after BEAR | Blocked: no buys in CHOP until BULL | Targets suppressed | Diff below min rebalance change
+2012-12-05,QQQ,TQQQ,CHOP,VIX_BULL,57.85,0.50,48.60,29.65,0.00,HOLD,0.00,26.50,Panic re-entry lock | Blocked: only long on BULL after BEAR | Blocked: no buys in CHOP until BULL | Targets suppressed | Diff below min rebalance change
+2012-12-06,QQQ,TQQQ,CHOP,VIX_BULL,58.23,0.51,52.25,54.20,0.00,HOLD,0.00,26.50,Panic re-entry lock | Blocked: only long on BULL after BEAR | Blocked: no buys in CHOP until BULL | Targets suppressed | Diff below min rebalance change
+2012-12-07,QQQ,TQQQ,CHOP,VIX_BULL,57.88,0.50,48.81,33.14,0.00,HOLD,0.00,26.50,Panic re-entry lock | Blocked: only long on BULL after BEAR | Blocked: no buys in CHOP until BULL | Targets suppressed | Diff below min rebalance change
+2012-12-10,QQQ,TQQQ,CHOP,VIX_BULL,58.05,0.51,50.51,45.34,0.00,HOLD,0.00,26.50,Panic re-entry lock | Blocked: only long on BULL after BEAR | Blocked: no buys in CHOP until BULL | Targets suppressed | Diff below min rebalance change
+2012-12-11,QQQ,TQQQ,BULL,VIX_BULL,58.81,0.53,57.35,100.00,100.00,BUY_TQQQ,100.00,26.50,Trade: BUY TQQQ
+2012-12-12,QQQ,TQQQ,BULL,VIX_BULL,58.68,0.52,55.93,100.00,100.00,HOLD,0.00,24.11,Hold blocked | Diff below min rebalance change
+2012-12-13,QQQ,TQQQ,CHOP,VIX_BULL,58.22,0.51,51.10,53.52,100.00,HOLD,-46.48,21.72,Blocked: CHOP confirm window | Diff below min rebalance change
+2012-12-14,QQQ,TQQQ,CHOP,VIX_BULL,57.67,0.50,45.98,0.00,0.00,SELL_TQQQ,-100.00,19.34,TQQQ stop loss | No change vs current exposure | Trade: SELL TQQQ
+2012-12-17,QQQ,TQQQ,BULL,VIX_BULL,58.43,0.52,52.99,100.00,0.00,HOLD,100.00,19.34,Hold blocked
+2012-12-18,QQQ,TQQQ,BULL,VIX_BULL,59.32,0.54,59.59,100.00,100.00,BUY_TQQQ,100.00,19.34,Trade: BUY TQQQ
+2012-12-19,QQQ,TQQQ,BULL,VIX_BULL,59.07,0.53,57.16,100.00,100.00,HOLD,0.00,17.13,Hold blocked | Diff below min rebalance change
+2012-12-20,QQQ,TQQQ,BULL,VIX_BULL,59.07,0.53,57.16,100.00,100.00,HOLD,0.00,17.13,Diff below min rebalance change
+2012-12-21,QQQ,TQQQ,BULL,VIX_BULL,58.44,0.52,51.07,100.00,100.00,HOLD,0.00,14.92,Diff below min rebalance change
+2012-12-24,QQQ,TQQQ,BULL,VIX_BULL,58.33,0.51,50.07,0.00,0.00,SELL_TQQQ,-100.00,12.71,TQQQ stop loss | No change vs current exposure | Trade: SELL TQQQ
+2012-12-26,QQQ,TQQQ,CHOP,VIX_BULL,57.82,0.50,45.60,34.73,0.00,HOLD,0.00,12.71,Blocked: only long on BULL after BEAR | Blocked: no buys in CHOP until BULL | Targets suppressed | Hold blocked | Diff below min rebalance change
+2012-12-27,QQQ,TQQQ,CHOP,VIX_BULL,57.73,0.50,44.84,21.23,0.00,HOLD,0.00,12.71,Blocked: only long on BULL after BEAR | Blocked: no buys in CHOP until BULL | Targets suppressed | Diff below min rebalance change
+2012-12-28,QQQ,TQQQ,BEAR_PENDING,VIX_CHOP,57.17,0.48,40.33,10.00,0.00,HOLD,0.00,12.71,Blocked: only long on BULL after BEAR | Targets suppressed | Diff below min rebalance change
+2012-12-31,QQQ,TQQQ,BULL,VIX_BULL,58.38,0.51,51.65,100.00,100.00,BUY_TQQQ,100.00,12.71,Trade: BUY TQQQ
