@@ -188,3 +188,4 @@ date,signal_symbol,trade_symbol,regime,vix_regime,signal_close,trade_close,rsi,t
 2026-09-30,QQQ,TQQQ,BULL,VIX_BULL,739.77,78.03,60.22,100.00,99.98,HOLD,0.00,6.30,Diff below min rebalance change
 2026-10-01,QQQ,TQQQ,BULL,VIX_BULL,742.03,78.73,61.47,100.00,99.98,HOLD,0.00,7.26,Diff below min rebalance change
 2026-10-02,QQQ,TQQQ,BULL,VIX_BULL,749.58,81.01,65.40,100.00,99.98,HOLD,0.00,10.36,Diff below min rebalance change
+2026-10-05,QQQ,TQQQ,BULL,VIX_BULL,756.20,83.12,68.44,100.00,99.98,HOLD,0.00,13.23,Diff below min rebalance change
