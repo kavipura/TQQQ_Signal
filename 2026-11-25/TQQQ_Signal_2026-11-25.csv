@@ -225,4 +225,4 @@ date,signal_symbol,trade_symbol,regime,vix_regime,signal_close,trade_close,rsi,t
 2026-11-20,QQQ,TQQQ,BEAR,VIX_BEAR,608.45,41.20,26.63,0.00,0.00,HOLD,0.00,0.57,Panic trigger active | Panic trigger active (day low vs prior close) | Panic cooldown active | Diff below min rebalance change | No change vs current exposure
 2026-11-23,QQQ,TQQQ,BEAR,VIX_CHOP,651.03,49.10,42.18,0.00,0.00,HOLD,0.00,0.57,Panic cooldown active | Diff below min rebalance change | No change vs current exposure
 2026-11-24,QQQ,TQQQ,BEAR,VIX_CHOP,638.10,46.19,39.45,0.00,0.00,HOLD,0.00,0.57,Panic cooldown active | Diff below min rebalance change | No change vs current exposure
-2026-11-25,QQQ,TQQQ,BEAR,VIX_CHOP,633.74,45.17,38.54,0.00,0.00,HOLD,0.00,0.57,Panic cooldown active | Diff below min rebalance change | No change vs current exposure
+2026-11-25,QQQ,TQQQ,BEAR,VIX_CHOP,633.93,45.28,38.58,0.00,0.00,HOLD,0.00,0.57,Panic cooldown active | Diff below min rebalance change | No change vs current exposure
